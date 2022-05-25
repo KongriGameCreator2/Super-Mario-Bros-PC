@@ -1,4 +1,4 @@
 # Super-Mario-Bros-PC
 My New Game!
-Your can down my game!
-Diffuctily is no hard.
+Your can download my game!
+Difficulty is no hard.
